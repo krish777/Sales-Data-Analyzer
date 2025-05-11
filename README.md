@@ -1,4 +1,4 @@
-# 🚗 Sales Data Analyzer
+# 🚗 Sales Data Analyzer using CrewAI & GROQ
 
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -8,11 +8,13 @@ A powerful sales analytics tool with AI-powered insights and projections.
 ## Features
 
 - **Data Analysis**
+
   - Sales summaries and trends
   - Regional performance breakdowns
   - Year-over-year growth metrics
 
 - **AI Insights**
+
   - 3-year sales projections
   - Natural language query support
   - Market trend analysis
@@ -25,6 +27,7 @@ A powerful sales analytics tool with AI-powered insights and projections.
 ## Quick Start
 
 1. Clone the repository:
+
 ```bash
 git clone https://github.com/krish777/Sales-Data-Analyzer.git
 cd Sales-Data-Analyzer
@@ -70,3 +73,4 @@ Missing columns: Check CSV format requirements
 
 LLM connection issues: Test with python -m llm_verifier
 
+```
