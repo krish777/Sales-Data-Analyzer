@@ -24,6 +24,9 @@ A powerful sales analytics tool with AI-powered insights and projections.
   - Cryptographic call verification
   - Full audit logging
 
+![image](https://github.com/user-attachments/assets/5da40750-a2b0-4725-b01c-8525dcb85206)
+
+
 ## Quick Start
 
 1. Clone the repository:
